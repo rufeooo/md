@@ -4,13 +4,15 @@ c
 
 d
 <
->
+> foo
 this is & fair
 [ single
 ] matched next line
--li
---dashli
+-arg
+--ddarg
 
 -one
 -two
 
+- li
+- -dashli

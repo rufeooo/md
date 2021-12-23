@@ -19,6 +19,7 @@ this is & fair
 - [ok fine][]
  - hmm
 
- > not a block?
+ > not a block? is block! mismatch with vim hilite
 
+[ok fine]: http://rufe.org
 

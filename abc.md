@@ -2,6 +2,8 @@ a
 b
 c
 
+# heading with link [mm](http://rufe.org/)
+
 d
 <
 > foo

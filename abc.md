@@ -3,6 +3,7 @@ b
 c
 
 # heading with link [mm](http://rufe.org/)
+# heading with # hash
 
 d
 <

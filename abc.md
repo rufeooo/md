@@ -39,8 +39,8 @@ this is text with a `single tick` example
 
 ```C
 int main() { return 0; }
-```
-a code example
+``` 
+text trailing after closing ticks changes the closing block meaning
 
 [ok fine]: http://rufe.org
 

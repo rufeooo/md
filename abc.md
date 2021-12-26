@@ -35,7 +35,7 @@ int main()
 
 this is text with a `single tick` example
 
-> this block contains code ```C int main() { return 0; } ``` 
+> blocks may contain code on a single line ```C int main() { return 0; } ``` 
 end block
 
 trailing text after closing ticks changes the closing block meaning

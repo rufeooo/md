@@ -35,7 +35,5 @@ int main()
 extra tick
 ```
 
-``` one line ```
-
 [ok fine]: http://rufe.org
 

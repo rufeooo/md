@@ -40,7 +40,8 @@ this is text with a `single tick` example
 ```C
 int main() { return 0; }
 ``` 
-text trailing after closing ticks changes the closing block meaning
+trailing text after closing ticks changes the closing block meaning
+trailing whitespace after closing ticks does not change a closing block
 
 [ok fine]: http://rufe.org
 

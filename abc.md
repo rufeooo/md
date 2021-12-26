@@ -39,7 +39,8 @@ this is text with a `single tick` example
 
 ```C
 int main() { return 0; }
-``` a code example
+```
+a code example
 
 [ok fine]: http://rufe.org
 

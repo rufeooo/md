@@ -33,5 +33,7 @@ int main()
 
 ``` one-line code block ```
 
+this is text with a `single tick` example
+
 [ok fine]: http://rufe.org
 

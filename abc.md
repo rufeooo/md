@@ -31,9 +31,7 @@ int main()
 }
 ```
 
-``` `
-extra tick
-```
+``` extra tick ```
 
 [ok fine]: http://rufe.org
 

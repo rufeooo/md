@@ -31,7 +31,7 @@ int main()
 }
 ```
 
-``` extra tick ```
+``` one-line code block ```
 
 [ok fine]: http://rufe.org
 

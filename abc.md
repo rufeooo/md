@@ -4,6 +4,7 @@ c
 
 # heading with link [ [mm](http://rufe.org/)
 # heading with # hash
+#hash no space
 
 d
 <
@@ -23,6 +24,8 @@ this is & fair
  - hmm
 
  > not a block? is block! mismatch with vim hilite
+
+>block no space
 
 ```C
 int main()

@@ -23,6 +23,8 @@ this is & fair
 - [ok fine][]
  - hmm
 
+start -dash more
+
  > not a block? is block! mismatch with vim hilite
 
 >block no space

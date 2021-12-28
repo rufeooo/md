@@ -6,6 +6,7 @@ c
 # heading with # hash
 #hash no space
 mid #heading haha
+# # double hash with spaces
 
 d
 <
@@ -23,6 +24,7 @@ this is & fair
 - -dashli
 - [ok fine][]
  - hmm
+- - double dash with spaces
 
 mid -dash more
 
@@ -31,6 +33,8 @@ mid -dash more
 >block no space
 
 mid <block sentence
+
+> > this is a turd too
 
 ```C
 int main()

@@ -5,6 +5,7 @@ c
 # heading with link [ [mm](http://rufe.org/)
 # heading with # hash
 #hash no space
+mid #heading haha
 
 d
 <
@@ -23,13 +24,13 @@ this is & fair
 - [ok fine][]
  - hmm
 
-start -dash more
+mid -dash more
 
  > not a block? is block! mismatch with vim hilite
 
 >block no space
 
-block <mid sentence
+mid <block sentence
 
 ```C
 int main()

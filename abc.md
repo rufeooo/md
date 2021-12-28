@@ -25,6 +25,7 @@ this is & fair
 - [ok fine][]
  - hmm
 - - double dash with spaces
+-- double dash one space
 
 mid -dash more
 

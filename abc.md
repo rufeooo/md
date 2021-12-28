@@ -29,6 +29,8 @@ start -dash more
 
 >block no space
 
+block <mid sentence
+
 ```C
 int main()
 {

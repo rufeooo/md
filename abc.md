@@ -59,5 +59,9 @@ end block
 > blocks may contain headings # mid-block h
 end block
 
+- list with block > heh
+
+# heading with block > heh
+
 [ok fine]: http://rufe.org
 

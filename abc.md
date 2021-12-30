@@ -53,8 +53,11 @@ this is text with a `single tick` example
 > blocks may contain code on a single line ```C int main() { return 0; } ``` 
 end block
 
-trailing text after closing ticks changes the closing block meaning
-trailing whitespace after closing ticks does not change a closing block
+> blocks may contain lists - whee
+end block
+
+> blocks may contain headings # mid-block h
+end block
 
 [ok fine]: http://rufe.org
 

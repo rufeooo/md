@@ -56,7 +56,15 @@ end block
 > blocks may not contain lists - whee
 end block
 
+> blocks may contain lists
+- whee
+end block
+
 > blocks may not contain headings # mid-block
+end block
+
+> blocks may contain headings
+# mid-block
 end block
 
 - list with block > nope

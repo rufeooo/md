@@ -53,15 +53,15 @@ this is text with a `single tick` example
 > blocks may contain code on a single line ```C int main() { return 0; } ``` 
 end block
 
-> blocks may contain lists - whee
+> blocks may not contain lists - whee
 end block
 
-> blocks may contain headings # mid-block h
+> blocks may not contain headings # mid-block
 end block
 
-- list with block > heh
+- list with block > nope
 
-# heading with block > heh
+# heading with block > nope
 
 [ok fine]: http://rufe.org
 

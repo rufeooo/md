@@ -5,7 +5,6 @@ c
 # heading with link [ [mm](http://rufe.org/)
 # heading with # hash
 #hash no space
-mid #heading haha
 # # double hash with spaces
 
 d
@@ -29,13 +28,10 @@ this is & fair
 - - double dash with spaces
 -- double dash one space
 
-mid -dash more
-
  > not a block? is block! mismatch with vim hilite
 
 >block no space
 
-mid <block sentence
 
 > > this is a turd too
 
@@ -72,6 +68,13 @@ end block
 - list with block > nope
 
 # heading with block > nope
+
+mid sentence #heading haha
+mid sentence # heading haha
+mid sentence -dash more
+mid sentence - dash more
+mid sentence <block check
+mid sentence < block check
 
 [ok fine]: http://rufe.org
 

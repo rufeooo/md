@@ -22,11 +22,11 @@ this is & fair
 - li
 - -dashli
 - [ok fine][]
- - hmm
-    - indent
-        - indent
-- - double dash with spaces
--- double dash one space
+ - list one whitespace indent
+    - list four whitespace indent
+        - list eight whitespace indent
+- - double dash with space separation
+-- double dash single trailing space
 
  > not a block? is block! mismatch with vim hilite
 
@@ -48,26 +48,28 @@ int main()
 
 this is text with a `single tick` example
 
-> blocks may contain code on a single line ```C int main() { return 0; } ``` 
+> blocks may not contain - same line list
 end block
 
-> blocks may not contain lists - whee
+> blocks may not contain # same line heading
 end block
 
-> blocks may contain lists
-- whee
+> blocks may contain code on same line ```C int main() { return 0; } ``` 
 end block
 
-> blocks may not contain headings # mid-block
-end block
+> block with
+- next line list
+is strange
 
-> blocks may contain headings
-# mid-block
-end block
+> block with
+# next line heading
+is strange
 
-- list with block > nope
+- list may not contain > same line block
+- list may not contain # same line heading
 
-# heading with block > nope
+# heading may not contain > same line block
+# heading may not contain - same line list 
 
 mid sentence #heading haha
 mid sentence # heading haha

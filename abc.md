@@ -78,5 +78,8 @@ mid sentence - dash more
 mid sentence <block check
 mid sentence < block check
 
+blob of text with split [ of mine ]
+( http://rufe.org/mine ) link
+
 [ok fine]: http://rufe.org
 

@@ -83,7 +83,9 @@ blob of text with split [ of mine ]
 
 blob of text with space [ space_link ] ( http://rufe.org/space_link ) link
 
-blob of text no space [ my_link]( http://rufe.org/my_link ) link
+blob of text no space [ my_link ]( http://rufe.org/my_link ) link
+
+yet whitespace doesn't matter interior to [link](http://rufe.org/link) blah
 
 [ok fine]: http://rufe.org
 

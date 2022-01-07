@@ -81,5 +81,7 @@ mid sentence < block check
 blob of text with split [ of mine ]
 ( http://rufe.org/mine ) link
 
+blob of text without split [ of mine ] ( http://rufe.org/mine ) link
+
 [ok fine]: http://rufe.org
 

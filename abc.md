@@ -6,6 +6,8 @@ c
 # heading with # hash
 #hash no space
 # # double hash with spaces
+# heading
+has text on following line
 
 d
 <

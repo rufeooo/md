@@ -37,6 +37,14 @@ this is & fair
 
 >> is this a double too?
 
+> starts a block
+> then another block on the next line
+what happens?
+
+> a quote happens
+> > that contains a quote!
+> then it concludes with an observation
+
 ```C
 int main()
 {
